@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FF9800;
+    padding: 20px;
+}
+
+.logo img {
+    max-width: 100px;
+}
+
+h1 {
+    margin: 10px 0;
+    font-size: 2em;
+}
+
+.menu {
+    padding: 20px;
+}
+
+.menu-category {
+    background-color: #222;
+    padding: 15px;
+    margin: 10px auto;
+    width: 80%;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #FF9800;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+.hours {
+    background-color: #FF9800;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #222;
+    padding: 15px;
+    margin-top: 20px;
+}
